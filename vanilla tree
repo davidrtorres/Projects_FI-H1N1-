@@ -1,25 +1,17 @@
 digraph Tree {
 node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
 edge [fontname=helvetica] ;
-0 [label="seasonal_vaccine <= 0.5\ngini = 0.334\nsamples = 17409\nvalue = [13717, 3692]\nclass = 0", fillcolor="#eca36e"] ;
-1 [label="opinion_h1n1_risk <= 3.5\ngini = 0.125\nsamples = 9300\nvalue = [8678, 622]\nclass = 0", fillcolor="#e78a47"] ;
+0 [label="opinion_h1n1_vacc_effective <= 4.5\ngini = 0.334\nsamples = 17409\nvalue = [13717, 3692]\nclass = 0", fillcolor="#eca36e"] ;
+1 [label="seasonal_vaccine <= 0.5\ngini = 0.243\nsamples = 12675\nvalue = [10883, 1792]\nclass = 0", fillcolor="#e9965a"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="opinion_h1n1_vacc_effective <= 3.5\ngini = 0.084\nsamples = 7542\nvalue = [7209, 333]\nclass = 0", fillcolor="#e68742"] ;
+2 [label="health_insurance <= 0.5\ngini = 0.088\nsamples = 7453\nvalue = [7110, 343]\nclass = 0", fillcolor="#e68743"] ;
 1 -> 2 ;
-3 [label="gini = 0.042\nsamples = 2735\nvalue = [2676, 59]\nclass = 0", fillcolor="#e6843d"] ;
+3 [label="gini = 0.062\nsamples = 4468\nvalue = [4324, 144]\nclass = 0", fillcolor="#e68540"] ;
 2 -> 3 ;
-4 [label="gini = 0.108\nsamples = 4807\nvalue = [4533, 274]\nclass = 0", fillcolor="#e78945"] ;
+4 [label="gini = 0.124\nsamples = 2985\nvalue = [2786, 199]\nclass = 0", fillcolor="#e78a47"] ;
 2 -> 4 ;
-5 [label="gini = 0.275\nsamples = 1758\nvalue = [1469, 289]\nclass = 0", fillcolor="#ea9a60"] ;
+5 [label="gini = 0.401\nsamples = 5222\nvalue = [3773, 1449]\nclass = 0", fillcolor="#efb185"] ;
 1 -> 5 ;
-6 [label="doctor_recc_h1n1 <= 0.5\ngini = 0.471\nsamples = 8109\nvalue = [5039, 3070]\nclass = 0", fillcolor="#f5ceb2"] ;
+6 [label="gini = 0.481\nsamples = 4734\nvalue = [2834, 1900]\nclass = 0", fillcolor="#f6d5be"] ;
 0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-7 [label="opinion_h1n1_vacc_effective <= 4.5\ngini = 0.38\nsamples = 5749\nvalue = [4280, 1469]\nclass = 0", fillcolor="#eeac7d"] ;
-6 -> 7 ;
-8 [label="gini = 0.298\nsamples = 4004\nvalue = [3275, 729]\nclass = 0", fillcolor="#eb9d65"] ;
-7 -> 8 ;
-9 [label="gini = 0.488\nsamples = 1745\nvalue = [1005, 740]\nclass = 0", fillcolor="#f8decb"] ;
-7 -> 9 ;
-10 [label="gini = 0.436\nsamples = 2360\nvalue = [759, 1601]\nclass = 1", fillcolor="#97cbf1"] ;
-6 -> 10 ;
 }
