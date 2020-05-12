@@ -800,34 +800,34 @@
 <!-- 50 -->
 <g id="node51" class="node">
 <title>50</title>
-<path fill="#7dbfee" stroke="#000000" d="M4970.5,-187C4970.5,-187 4827.5,-187 4827.5,-187 4821.5,-187 4815.5,-181 4815.5,-175 4815.5,-175 4815.5,-116 4815.5,-116 4815.5,-110 4821.5,-104 4827.5,-104 4827.5,-104 4970.5,-104 4970.5,-104 4976.5,-104 4982.5,-110 4982.5,-116 4982.5,-116 4982.5,-175 4982.5,-175 4982.5,-181 4976.5,-187 4970.5,-187"/>
-<text text-anchor="middle" x="4899" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">health_worker &lt;= 0.5</text>
-<text text-anchor="middle" x="4899" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">gini = 0.381</text>
-<text text-anchor="middle" x="4899" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">samples = 716</text>
-<text text-anchor="middle" x="4899" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">value = [255.1, 740.307]</text>
-<text text-anchor="middle" x="4899" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">class = 1</text>
+<path fill="#7dbfee" stroke="#000000" d="M4987.5,-187C4987.5,-187 4844.5,-187 4844.5,-187 4838.5,-187 4832.5,-181 4832.5,-175 4832.5,-175 4832.5,-116 4832.5,-116 4832.5,-110 4838.5,-104 4844.5,-104 4844.5,-104 4987.5,-104 4987.5,-104 4993.5,-104 4999.5,-110 4999.5,-116 4999.5,-116 4999.5,-175 4999.5,-175 4999.5,-181 4993.5,-187 4987.5,-187"/>
+<text text-anchor="middle" x="4916" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">health_worker &lt;= 0.5</text>
+<text text-anchor="middle" x="4916" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">gini = 0.381</text>
+<text text-anchor="middle" x="4916" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">samples = 716</text>
+<text text-anchor="middle" x="4916" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">value = [255.1, 740.307]</text>
+<text text-anchor="middle" x="4916" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">class = 1</text>
 </g>
 <!-- 49&#45;&gt;50 -->
 <g id="edge50" class="edge">
 <title>49&#45;&gt;50</title>
-<path fill="none" stroke="#000000" d="M4971.1776,-222.8796C4962.6927,-213.7832 4953.6346,-204.0722 4944.9032,-194.7116"/>
-<polygon fill="#000000" stroke="#000000" points="4947.3686,-192.2233 4937.9881,-187.2981 4942.2497,-196.9981 4947.3686,-192.2233"/>
+<path fill="none" stroke="#000000" d="M4977.1234,-222.8796C4970.0803,-213.9633 4962.5707,-204.4565 4955.3126,-195.268"/>
+<polygon fill="#000000" stroke="#000000" points="4957.9621,-192.9757 4949.017,-187.2981 4952.4691,-197.3147 4957.9621,-192.9757"/>
 </g>
 <!-- 53 -->
 <g id="node54" class="node">
 <title>53</title>
-<path fill="#56abe9" stroke="#000000" d="M5229.5,-187C5229.5,-187 5012.5,-187 5012.5,-187 5006.5,-187 5000.5,-181 5000.5,-175 5000.5,-175 5000.5,-116 5000.5,-116 5000.5,-110 5006.5,-104 5012.5,-104 5012.5,-104 5229.5,-104 5229.5,-104 5235.5,-104 5241.5,-110 5241.5,-116 5241.5,-116 5241.5,-175 5241.5,-175 5241.5,-181 5235.5,-187 5229.5,-187"/>
-<text text-anchor="middle" x="5121" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">opinion_h1n1_vacc_effective &lt;= 2.5</text>
-<text text-anchor="middle" x="5121" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">gini = 0.222</text>
-<text text-anchor="middle" x="5121" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">samples = 165</text>
-<text text-anchor="middle" x="5121" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">value = [36.805, 252.27]</text>
-<text text-anchor="middle" x="5121" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">class = 1</text>
+<path fill="#56abe9" stroke="#000000" d="M5178,-187C5178,-187 5030,-187 5030,-187 5024,-187 5018,-181 5018,-175 5018,-175 5018,-116 5018,-116 5018,-110 5024,-104 5030,-104 5030,-104 5178,-104 5178,-104 5184,-104 5190,-110 5190,-116 5190,-116 5190,-175 5190,-175 5190,-181 5184,-187 5178,-187"/>
+<text text-anchor="middle" x="5104" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">opinion_seas_risk &lt;= 1.5</text>
+<text text-anchor="middle" x="5104" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">gini = 0.222</text>
+<text text-anchor="middle" x="5104" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">samples = 165</text>
+<text text-anchor="middle" x="5104" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">value = [36.805, 252.27]</text>
+<text text-anchor="middle" x="5104" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">class = 1</text>
 </g>
 <!-- 49&#45;&gt;53 -->
 <g id="edge53" class="edge">
 <title>49&#45;&gt;53</title>
-<path fill="none" stroke="#000000" d="M5048.8224,-222.8796C5057.3073,-213.7832 5066.3654,-204.0722 5075.0968,-194.7116"/>
-<polygon fill="#000000" stroke="#000000" points="5077.7503,-196.9981 5082.0119,-187.2981 5072.6314,-192.2233 5077.7503,-196.9981"/>
+<path fill="none" stroke="#000000" d="M5042.8766,-222.8796C5049.9197,-213.9633 5057.4293,-204.4565 5064.6874,-195.268"/>
+<polygon fill="#000000" stroke="#000000" points="5067.5309,-197.3147 5070.983,-187.2981 5062.0379,-192.9757 5067.5309,-197.3147"/>
 </g>
 <!-- 51 -->
 <g id="node52" class="node">
@@ -841,8 +841,8 @@
 <!-- 50&#45;&gt;51 -->
 <g id="edge51" class="edge">
 <title>50&#45;&gt;51</title>
-<path fill="none" stroke="#000000" d="M4840.539,-103.9815C4826.7492,-94.1881 4812.0753,-83.7668 4798.3795,-74.0402"/>
-<polygon fill="#000000" stroke="#000000" points="4800.1747,-71.0223 4789.995,-68.0856 4796.1215,-76.7295 4800.1747,-71.0223"/>
+<path fill="none" stroke="#000000" d="M4851.2088,-103.9815C4835.6375,-94.0034 4819.049,-83.3733 4803.6263,-73.4904"/>
+<polygon fill="#000000" stroke="#000000" points="4805.5,-70.5341 4795.1919,-68.0856 4801.7232,-76.4279 4805.5,-70.5341"/>
 </g>
 <!-- 52 -->
 <g id="node53" class="node">
@@ -856,8 +856,8 @@
 <!-- 50&#45;&gt;52 -->
 <g id="edge52" class="edge">
 <title>50&#45;&gt;52</title>
-<path fill="none" stroke="#000000" d="M4909.4262,-103.9815C4911.5495,-95.5261 4913.7904,-86.6026 4915.935,-78.0623"/>
-<polygon fill="#000000" stroke="#000000" points="4919.3546,-78.815 4918.3957,-68.2637 4912.5654,-77.1101 4919.3546,-78.815"/>
+<path fill="none" stroke="#000000" d="M4920.096,-103.9815C4920.9211,-95.618 4921.7914,-86.7965 4922.6256,-78.3409"/>
+<polygon fill="#000000" stroke="#000000" points="4926.1209,-78.559 4923.6197,-68.2637 4919.1548,-77.8717 4926.1209,-78.559"/>
 </g>
 <!-- 54 -->
 <g id="node55" class="node">
@@ -871,8 +871,8 @@
 <!-- 53&#45;&gt;54 -->
 <g id="edge54" class="edge">
 <title>53&#45;&gt;54</title>
-<path fill="none" stroke="#000000" d="M5110.5738,-103.9815C5108.4505,-95.5261 5106.2096,-86.6026 5104.065,-78.0623"/>
-<polygon fill="#000000" stroke="#000000" points="5107.4346,-77.1101 5101.6043,-68.2637 5100.6454,-78.815 5107.4346,-77.1101"/>
+<path fill="none" stroke="#000000" d="M5099.904,-103.9815C5099.0789,-95.618 5098.2086,-86.7965 5097.3744,-78.3409"/>
+<polygon fill="#000000" stroke="#000000" points="5100.8452,-77.8717 5096.3803,-68.2637 5093.8791,-78.559 5100.8452,-77.8717"/>
 </g>
 <!-- 55 -->
 <g id="node56" class="node">
@@ -886,8 +886,8 @@
 <!-- 53&#45;&gt;55 -->
 <g id="edge55" class="edge">
 <title>53&#45;&gt;55</title>
-<path fill="none" stroke="#000000" d="M5173.8756,-103.9815C5186.1655,-94.3313 5199.2319,-84.0714 5211.4632,-74.4673"/>
-<polygon fill="#000000" stroke="#000000" points="5213.6602,-77.1923 5219.3638,-68.2637 5209.3371,-71.6867 5213.6602,-77.1923"/>
+<path fill="none" stroke="#000000" d="M5163.2057,-103.9815C5177.1712,-94.1881 5192.0321,-83.7668 5205.9023,-74.0402"/>
+<polygon fill="#000000" stroke="#000000" points="5208.2156,-76.6928 5214.3936,-68.0856 5204.1965,-70.9616 5208.2156,-76.6928"/>
 </g>
 <!-- 57 -->
 <g id="node58" class="node">
